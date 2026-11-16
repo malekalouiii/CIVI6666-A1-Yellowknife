@@ -1,0 +1,5 @@
+variable,dataset,same direction as station (of 7),same significance at 0.10 (of 7),mean |slope difference| per decade,significant at 0.05 (of 7),station significant at 0.05 (of 7)
+Maximum daily precipitation,NCEP,6,6,0.85,3,1
+Maximum daily precipitation,CanESM5,3,5,1.64,0,1
+Mean temperature,NCEP,7,4,0.34,3,1
+Mean temperature,CanESM5,4,5,0.49,1,1

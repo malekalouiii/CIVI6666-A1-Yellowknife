@@ -1,0 +1,4 @@
+dataset,lat,lon,resolution,distance_km
+ECCC station 2204100,62.46,-114.44,point,0.0
+NCEP-NCAR R1 (T62 Gaussian),61.9033,-114.375,~1.875 deg (~200 km),62.0
+NEX-GDDP-CMIP6 CanESM5,62.375,-114.375,0.25 deg (~25 km),10.0

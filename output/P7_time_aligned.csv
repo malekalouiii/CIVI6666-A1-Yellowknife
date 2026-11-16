@@ -1,0 +1,3 @@
+dataset,evaluation type,daily Tmean anomaly r,daily Tmean RMSE (degC),daily Tmax RMSE (degC),daily Tmin RMSE (degC),daily precip Spearman r (lag -1),daily precip Spearman r (lag +0),daily precip Spearman r (lag +1),best lag (days),wet-day POD (lag +0),wet-day false alarm ratio (lag +0),monthly T anomaly r,monthly P anomaly r,annual T r,annual P r
+NCEP,time-aligned (valid),0.847,3.943,4.259,4.969,0.246,0.357,0.095,0,0.497,0.612,0.918,0.463,0.932,0.611
+CanESM5,time-aligned (NOT meaningful: free-running GCM),-0.025,8.722,8.955,9.339,0.019,0.043,0.033,0,0.237,0.814,-0.055,0.04,-0.071,0.104

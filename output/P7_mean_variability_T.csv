@@ -1,0 +1,6 @@
+period,Station mean (degC),Station SD,NCEP bias (degC),NCEP SD ratio,CanESM5 bias (degC),CanESM5 SD ratio
+JFM,-23.68,2.88,2.99,1.06,1.14,0.46
+AMJ,3.95,1.88,0.44,0.9,-0.52,0.96
+JAS,12.45,0.95,0.42,1.04,-0.31,1.15
+OND,-13.46,2.45,-0.73,0.82,0.72,0.89
+Annual,-5.12,1.2,0.77,0.99,0.27,0.74

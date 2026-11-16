@@ -1,0 +1,19 @@
+period,variable,dataset,Q5,Q10,Q25,Q50,Q75,Q90,Q95,values
+Annual,tmean,Station,-33.85,-29.25,-19.85,-2.8,10.25,15.85,17.8,station value
+Annual,tmean,NCEP,2.9,2.15,1.65,-0.7,0.45,0.32,0.75,difference vs station
+Annual,tmean,CanESM5,1.58,0.86,1.41,-0.13,-0.22,-0.7,-0.67,difference vs station
+Annual,precip,Station,0.0,0.0,0.0,0.0,0.4,2.0,3.8,station value
+Annual,precip,NCEP,0.01,0.01,0.01,0.06,0.39,1.65,2.87,difference vs station
+Annual,precip,CanESM5,0.0,0.0,0.0,0.14,0.43,0.39,0.01,difference vs station
+JFM,tmean,Station,-38.3,-35.55,-30.55,-23.8,-17.23,-11.28,-8.35,station value
+JFM,tmean,NCEP,3.8,3.35,2.88,2.8,3.4,3.02,3.0,difference vs station
+JFM,tmean,CanESM5,1.61,1.37,1.02,0.43,1.24,1.7,1.67,difference vs station
+JFM,precip,Station,0.0,0.0,0.0,0.0,0.3,1.4,2.3,station value
+JFM,precip,NCEP,0.01,0.01,0.01,0.04,-0.05,-0.46,-0.5,difference vs station
+JFM,precip,CanESM5,0.0,0.0,0.0,0.08,0.19,-0.03,0.13,difference vs station
+JAS,tmean,Station,2.5,4.75,8.8,13.05,16.6,18.95,20.4,station value
+JAS,tmean,NCEP,-0.9,-0.69,0.59,0.75,0.65,1.0,0.99,difference vs station
+JAS,tmean,CanESM5,-0.28,0.06,0.14,-0.07,-0.63,-0.85,-1.05,difference vs station
+JAS,precip,Station,0.0,0.0,0.0,0.0,0.5,3.01,6.61,station value
+JAS,precip,NCEP,0.01,0.01,0.01,0.04,1.75,3.45,2.83,difference vs station
+JAS,precip,CanESM5,0.0,0.0,0.0,0.27,0.92,0.51,-1.18,difference vs station

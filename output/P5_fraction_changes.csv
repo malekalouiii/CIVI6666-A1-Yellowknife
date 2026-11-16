@@ -1,0 +1,13 @@
+dataset,season,first_pct,last_pct,change_pct_points,first_total_mm,last_total_mm
+Station,JFM,15.9,14.3,-1.6,37.8,41.6
+Station,AMJ,16.2,21.6,5.4,38.7,63.0
+Station,JAS,38.7,38.5,-0.1,92.2,112.5
+Station,OND,29.2,25.6,-3.6,69.7,74.7
+NCEP,JFM,7.5,8.2,0.7,25.5,38.8
+NCEP,AMJ,37.7,41.3,3.6,128.3,195.7
+NCEP,JAS,44.1,39.5,-4.6,150.0,187.4
+NCEP,OND,10.7,11.1,0.3,36.5,52.5
+CanESM5,JFM,16.1,14.1,-2.0,47.1,42.0
+CanESM5,AMJ,20.5,22.6,2.1,60.1,67.6
+CanESM5,JAS,38.8,35.7,-3.0,113.6,106.7
+CanESM5,OND,24.7,27.6,2.9,72.3,82.3

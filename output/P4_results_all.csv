@@ -1,0 +1,43 @@
+variable,unit,dataset,period,n_years,mean,sen_slope_per_decade,sen_intercept,change_over_30yr,direction,MK_S,MK_Z,MK_p,kendall_tau,sig_0.05,sig_0.10,lag1_r
+Maximum daily precipitation,mm/decade,Station,Feb,30,4.23,0.5556,-106.1278,1.6111,increasing,50,0.8753,0.3814,0.1149,False,False,-0.129
+Maximum daily precipitation,mm/decade,NCEP,Feb,30,3.581,-0.1476,31.9627,-0.428,decreasing,-8,-0.1249,0.9006,-0.0184,False,False,-0.0025
+Maximum daily precipitation,mm/decade,CanESM5,Feb,30,3.6488,0.0054,2.7502,0.0157,increasing,1,0.0,1.0,0.0023,False,False,-0.2423
+Maximum daily precipitation,mm/decade,Station,May,30,6.75,2.0,-389.25,5.8,increasing,125,2.213,0.0269,0.2874,True,True,-0.172
+Maximum daily precipitation,mm/decade,NCEP,May,30,10.2689,2.1384,-412.4728,6.2014,increasing,149,2.6405,0.0083,0.3425,True,True,0.1183
+Maximum daily precipitation,mm/decade,CanESM5,May,30,3.8546,0.3946,-74.4891,1.1444,increasing,49,0.8564,0.3918,0.1126,False,False,-0.1259
+Maximum daily precipitation,mm/decade,Station,Aug,30,15.68,0.15,-18.705,0.435,increasing,7,0.1071,0.9147,0.0161,False,False,0.0141
+Maximum daily precipitation,mm/decade,NCEP,Aug,30,12.047,1.3248,-250.3949,3.8419,increasing,65,1.1418,0.2535,0.1494,False,False,0.2273
+Maximum daily precipitation,mm/decade,CanESM5,Aug,30,7.7359,-0.0616,19.0645,-0.1786,decreasing,-3,-0.0357,0.9715,-0.0069,False,False,0.2492
+Maximum daily precipitation,mm/decade,Station,Oct,30,10.5667,1.7,-326.37,4.93,increasing,94,1.66,0.0969,0.2161,False,True,-0.0264
+Maximum daily precipitation,mm/decade,NCEP,Oct,30,6.8259,1.4947,-289.8381,4.3347,increasing,114,2.017,0.0437,0.2621,True,True,-0.06
+Maximum daily precipitation,mm/decade,CanESM5,Oct,30,7.3324,0.2942,-50.7019,0.8531,increasing,33,0.5709,0.5681,0.0759,False,False,-0.2717
+Maximum daily precipitation,mm/decade,Station,JFM,30,6.64,0.9412,-180.3059,2.7294,increasing,91,1.6079,0.1079,0.2092,False,False,-0.0426
+Maximum daily precipitation,mm/decade,NCEP,JFM,30,6.0025,0.0465,-3.2318,0.1349,increasing,12,0.1963,0.8444,0.0276,False,False,-0.2516
+Maximum daily precipitation,mm/decade,CanESM5,JFM,30,6.0412,-0.6967,143.0111,-2.0204,decreasing,-79,-1.3916,0.164,-0.1816,False,False,-0.0148
+Maximum daily precipitation,mm/decade,Station,JAS,30,24.9667,2.9091,-552.2091,8.4364,increasing,40,0.6959,0.4865,0.092,False,False,-0.0175
+Maximum daily precipitation,mm/decade,NCEP,JAS,30,16.1427,1.5238,-284.7385,4.4189,increasing,77,1.3559,0.1751,0.177,False,False,-0.1196
+Maximum daily precipitation,mm/decade,CanESM5,JAS,30,11.1315,-1.0204,211.8755,-2.9592,decreasing,-63,-1.1061,0.2687,-0.1448,False,False,-0.0679
+Maximum daily precipitation,mm/decade,Station,Annual,30,27.44,1.2778,-230.7194,3.7056,increasing,30,0.5175,0.6048,0.069,False,False,-0.1551
+Maximum daily precipitation,mm/decade,NCEP,Annual,30,18.9337,2.751,-525.601,7.9778,increasing,129,2.2837,0.0224,0.2966,True,True,0.0702
+Maximum daily precipitation,mm/decade,CanESM5,Annual,30,12.5556,-0.8387,177.9609,-2.4321,decreasing,-49,-0.8564,0.3918,-0.1126,False,False,-0.0956
+Mean temperature,degC/decade,Station,Feb,30,-24.55,1.1554,-252.6683,3.3505,increasing,55,0.9634,0.3353,0.1264,False,False,-0.2388
+Mean temperature,degC/decade,NCEP,Feb,30,-21.5087,1.4403,-305.5742,4.1769,increasing,71,1.2489,0.2117,0.1632,False,False,-0.1702
+Mean temperature,degC/decade,CanESM5,Feb,30,-23.8576,1.2433,-269.4212,3.6056,increasing,111,1.9625,0.0497,0.2552,True,True,0.1086
+Mean temperature,degC/decade,Station,May,30,4.9677,0.5491,-103.3363,1.5924,increasing,51,0.8921,0.3724,0.1172,False,False,0.1236
+Mean temperature,degC/decade,NCEP,May,30,5.0085,1.1736,-226.82,3.4033,increasing,95,1.6771,0.0935,0.2184,False,True,0.1479
+Mean temperature,degC/decade,CanESM5,May,30,4.2225,0.2005,-35.5193,0.5815,increasing,15,0.2498,0.8028,0.0345,False,False,-0.1114
+Mean temperature,degC/decade,Station,Aug,30,14.0316,-0.1548,44.7658,-0.449,decreasing,-35,-0.6066,0.5441,-0.0805,False,False,-0.0981
+Mean temperature,degC/decade,NCEP,Aug,30,14.8451,-0.4526,103.9127,-1.3124,decreasing,-91,-1.6057,0.1083,-0.2092,False,False,0.0096
+Mean temperature,degC/decade,CanESM5,Aug,30,13.6095,-0.1651,46.0956,-0.4787,decreasing,-33,-0.5709,0.5681,-0.0759,False,False,-0.1203
+Mean temperature,degC/decade,Station,Oct,30,-1.4356,-0.5188,101.6062,-1.5046,decreasing,-55,-0.9634,0.3353,-0.1264,False,False,-0.0892
+Mean temperature,degC/decade,NCEP,Oct,30,-3.8588,-0.8861,171.4633,-2.5698,decreasing,-129,-2.2837,0.0224,-0.2966,True,True,0.1825
+Mean temperature,degC/decade,CanESM5,Oct,30,-1.5457,0.6214,-124.4468,1.8021,increasing,65,1.1418,0.2535,0.1494,False,False,-0.0649
+Mean temperature,degC/decade,Station,JFM,30,-23.6784,1.2921,-279.2984,3.7469,increasing,117,2.0696,0.0385,0.269,True,True,0.1565
+Mean temperature,degC/decade,NCEP,JFM,30,-20.6894,1.7402,-364.8078,5.0465,increasing,171,3.033,0.0024,0.3931,True,True,0.2523
+Mean temperature,degC/decade,CanESM5,JFM,30,-22.5427,-0.0166,-19.1731,-0.0482,decreasing,-5,-0.0714,0.9431,-0.0115,False,False,-0.0526
+Mean temperature,degC/decade,Station,JAS,30,12.4507,0.1094,-9.111,0.3172,increasing,23,0.3925,0.6947,0.0529,False,False,-0.2482
+Mean temperature,degC/decade,NCEP,JAS,30,12.8693,0.1034,-7.3573,0.2998,increasing,29,0.4995,0.6174,0.0667,False,False,-0.2211
+Mean temperature,degC/decade,CanESM5,JAS,30,12.1452,-0.0882,29.6744,-0.2557,decreasing,-29,-0.4995,0.6174,-0.0667,False,False,0.0108
+Mean temperature,degC/decade,Station,Annual,30,-5.1198,0.4251,-89.2388,1.2328,increasing,89,1.57,0.1164,0.2046,False,False,0.0027
+Mean temperature,degC/decade,NCEP,Annual,30,-4.3513,0.7677,-156.1758,2.2262,increasing,187,3.3184,0.0009,0.4299,True,True,0.2524
+Mean temperature,degC/decade,CanESM5,Annual,30,-4.8547,0.0631,-17.3261,0.1828,increasing,17,0.2855,0.7753,0.0391,False,False,-0.0647
