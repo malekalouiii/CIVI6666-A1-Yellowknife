@@ -1,5 +1,5 @@
 """
-ENGR 6666 - Assignment 1 - P2: Descriptive climate characteristics
+CIVI 6666 - Assignment 1 - P2: Descriptive climate characteristics
 Yellowknife A (2204100) | 1961-1990 | Station, NCEP-NCAR R1, CanESM5 (NEX-GDDP)
 
 For each dataset, builds yearly series of
