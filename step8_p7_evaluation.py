@@ -1,5 +1,5 @@
 """
-ENGR 6666 - Assignment 1 - P7: Differences among station, reanalysis and GCM
+CIVI 6666 - Assignment 1 - P7: Differences among station, reanalysis and GCM
 Yellowknife A (2204100) | 1961-1990 | reference = station
 
 1. Mean climate and variability: bias (dataset - station) and SD ratio
