@@ -1,5 +1,5 @@
 """
-ENGR 6666 - Assignment 1 - Step 2
+CIVI 6666 - Assignment 1 - Step 2
 Gridded data for Yellowknife A (ECCC 2204100, 62.46 N, -114.44 E)
 
   (A) NCEP-NCAR Reanalysis 1, daily, T62 Gaussian grid (~1.875 deg)
