@@ -1,5 +1,5 @@
 """
-ENGR 6666 - Assignment 1 - Step 3  (completes P1)
+CIVI 6666 - Assignment 1 - Step 3  (completes P1)
 Yellowknife A (ECCC 2204100) | window 1961-1990
 
 Inputs (from Steps 1 and 2, in ./output/):
