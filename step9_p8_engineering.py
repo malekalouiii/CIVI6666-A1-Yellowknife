@@ -1,5 +1,5 @@
 """
-ENGR 6666 - Assignment 1 - P8: Engineering indicators
+CIVI 6666 - Assignment 1 - P8: Engineering indicators
 Yellowknife A (2204100) | 1961-1990 | Station, NCEP-NCAR R1, CanESM5 (NEX-GDDP)
 
 Application A - stormwater drainage / culverts
