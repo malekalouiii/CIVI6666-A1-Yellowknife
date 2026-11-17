@@ -1,5 +1,5 @@
 """
-ENGR 6666 - Assignment 1 - P5: Changes in seasonality and distributions
+CIVI 6666 - Assignment 1 - P5: Changes in seasonality and distributions
 Yellowknife A (2204100) | Station, NCEP-NCAR R1, CanESM5 (NEX-GDDP)
 
 First decade  = years 1-10  = 1961-1970
