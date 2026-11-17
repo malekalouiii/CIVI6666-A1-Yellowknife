@@ -1,5 +1,5 @@
 """
-ENGR 6666 - Assignment 1 - P4: Trend detection
+CIVI 6666 - Assignment 1 - P4: Trend detection
 Yellowknife A (2204100) | 1961-1990 | Station, NCEP-NCAR R1, CanESM5 (NEX-GDDP)
 
 7 periods (Feb, May, Aug, Oct, JFM, JAS, Annual) x 2 variables x 3 datasets = 42 series
