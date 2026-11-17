@@ -1,4 +1,4 @@
-# ENGR 6666 – Assignment 1: Historical climate-change signals at Yellowknife, NT
+# CIVI 6666 – Assignment 1: Historical climate-change signals at Yellowknife, NT
 
 Station: ECCC Yellowknife A (Climate ID 2204100; 62.46°N, 114.44°W). Analysis window: 1961–1990.
 
