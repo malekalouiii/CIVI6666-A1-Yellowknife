@@ -1,5 +1,5 @@
 """
-ENGR 6666 - Assignment 1 - Step 1
+CIVI 6666 - Assignment 1 - Step 1
 Station: Yellowknife A, NT  |  ECCC Climate ID 2204100  |  62.46 N, -114.44 E
 Permitted record: 1950-1992
 
