@@ -1,5 +1,5 @@
 """
-ENGR 6666 - Assignment 1 - P3: Climatological seasonality
+CIVI 6666 - Assignment 1 - P3: Climatological seasonality
 Yellowknife A (2204100) | 1961-1990 | Station, NCEP-NCAR R1, CanESM5 (NEX-GDDP)
 
   - 12 monthly climatological mean temperatures (mean over 30 years of monthly means)
